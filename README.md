@@ -1,3 +1,14 @@
+
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/14ae6905-e954-4e71-acf9-2d9e0c51b874
+
+
 **DeepChem-Based HIV Drug Discovery Exploration**
 
 This repository contains a demonstration exploring the application of machine learning, specifically using the DeepChem library, to identify potential drug candidates for HIV.
